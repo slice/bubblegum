@@ -1,1 +1,5 @@
-![preview](https://github.com/baskerville/bubblegum/raw/master/preview/bubblegum_preview.png)
+# bubblegum
+
+this is my personal fork of the [bubblegum] theme.
+
+[bubblegum]: https://github.com/baskerville/bubblegum
