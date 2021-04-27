@@ -62,7 +62,7 @@ hi Debug ctermfg=174 ctermbg=NONE cterm=none guifg=#D78787 guibg=NONE gui=none
 hi Underlined ctermfg=249 ctermbg=NONE cterm=underline guifg=#B2B2B2 guibg=NONE gui=underline
 hi Ignore ctermfg=235 ctermbg=NONE cterm=none guifg=#262626 guibg=NONE gui=none
 hi Error ctermfg=231 ctermbg=167 cterm=none guifg=#FFFFFF guibg=#D75F5F gui=none
-hi Todo ctermfg=244 ctermbg=NONE cterm=none guifg=#808080 guibg=NONE gui=none
+hi Todo ctermfg=244 ctermbg=NONE cterm=bold guifg=#808080 guibg=NONE gui=bold
 
 " Window
 hi StatusLine ctermfg=249 ctermbg=237 cterm=none guifg=#B2B2B2 guibg=#3A3A3A gui=none
@@ -91,12 +91,12 @@ hi ModeMsg ctermfg=222 ctermbg=NONE cterm=bold guifg=#FFD787 guibg=NONE gui=bold
 hi Question ctermfg=38 ctermbg=NONE cterm=none guifg=#00AFD7 guibg=NONE gui=none
 
 " Mark
-hi Folded ctermfg=244 ctermbg=NONE cterm=none guifg=#808080 guibg=NONE gui=none
+hi Folded ctermfg=244 ctermbg=NONE cterm=reverse guifg=#808080 guibg=NONE gui=reverse
 hi FoldColumn ctermfg=79 ctermbg=237 cterm=none guifg=#5FD7AF guibg=#3A3A3A gui=none
 hi SignColumn ctermfg=184 ctermbg=237 cterm=none guifg=#D7D700 guibg=#3A3A3A gui=none
 hi ColorColumn ctermbg=237 cterm=none guibg=#3A3A3A gui=none
 hi LineNr ctermfg=244 ctermbg=237 cterm=none guifg=#808080 guibg=#3A3A3A gui=none
-hi MatchParen ctermfg=16 ctermbg=215 cterm=none guifg=#000000 guibg=#FFAF5F gui=none
+hi MatchParen ctermfg=130 ctermbg=215 cterm=none guifg=#AF5F00 guibg=#FFAF5F gui=none
 
 " Cursor
 hi CursorColumn ctermbg=237 cterm=none guibg=#3A3A3A gui=none
