@@ -10,7 +10,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let g:colors_name="bubblegum-256-dark"
+let g:colors_name="bubblegum2"
 
 
 " Main
